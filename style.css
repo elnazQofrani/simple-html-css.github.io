@@ -1,0 +1,17 @@
+#Li-Center{
+  text-align: center;
+  background-color: red;
+}
+H1{
+  font-size: 40px;
+  font-style: italic;
+    border: 5px solid red;
+  padding : 10px;
+  margin: 30px;
+}
+.FontColor{
+  color: rgb(255, 255, 0);
+}
+#Border-styel{
+  border: 5px solid;
+}
